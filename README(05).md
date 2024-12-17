@@ -1,7 +1,7 @@
 
 # Networking Labs
 
-### Networking Lab - 3 
+### Networking Lab - 5
 
 #### OBJECTIVE: 
     1. To assign static IPs to different PCs on a basic LAN.
