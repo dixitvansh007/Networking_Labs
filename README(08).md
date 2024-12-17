@@ -1,7 +1,7 @@
 
 # Networking Labs
 
-### Networking Lab - 7 
+### Networking Lab - 8
 
 #### OBJECTIVE: 
 To configure the routers with a Dynamic Interior Gateway Routing Protocol (R.I.P.)
