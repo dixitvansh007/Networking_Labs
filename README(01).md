@@ -1,7 +1,7 @@
 
 # Networking Labs
 
-### Networking Lab - 5 
+### Networking Lab - 1 
 
 #### OBJECTIVE: 
 To dynamically assign IP addresses to different computers on a LAN using DHCP server.
