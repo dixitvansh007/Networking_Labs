@@ -1,7 +1,7 @@
 
 # Networking Labs
 
-### Networking Lab - 1
+### Networking Lab - 2
 
 #### OBJECTIVE: 
 To capture packets of data across your network using Wireshark.
