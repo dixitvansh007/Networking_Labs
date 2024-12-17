@@ -1,7 +1,7 @@
 
 # Networking Labs
 
-### Networking Lab - 8 
+### Networking Lab - 10
 
 #### OBJECTIVE: 
 Configuring a web server firewall to block ICMP requests.
