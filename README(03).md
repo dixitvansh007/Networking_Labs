@@ -1,7 +1,7 @@
 
 # Networking Labs
 
-### Networking Lab - 2 
+### Networking Lab - 3
 
 #### OBJECTIVE: 
 To demonstrate the importance of protocols like FTP that utilise encryption.
