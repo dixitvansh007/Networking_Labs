@@ -1,7 +1,7 @@
 
 # Networking Labs
 
-### Networking Lab - 10
+### Networking Lab - 9
 
 #### Duration: 3 - 4 hourse
 
