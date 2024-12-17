@@ -1,7 +1,7 @@
 
 # Networking Labs
 
-### Networking Lab - 4 
+### Networking Lab - 7
 
 #### OBJECTIVE: 
 To practice subnetting and create Two LANs on different subnets.
