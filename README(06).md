@@ -17,7 +17,7 @@ Cisco packet tracer software installed.
 
 #### STEPS:
 
-•	Start the packet tracer file included (Lab-6 Start), and have a look at the configuration.
+•	Start the packet tracer file included (PKT-3 Start), and have a look at the configuration.
 
 •	Firstly, change the DNS server to the name of the server in the IP Configuration of the server.
 
