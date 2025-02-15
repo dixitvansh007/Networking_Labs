@@ -12,7 +12,7 @@ Cisco packet tracer software installed.
 
 #### STEPS:
 
-•	Start the packet tracer file included (Lab-4 Start), and have a look at the configuration.
+•	Start the packet tracer file included (PKT-4 Start), and have a look at the configuration.
 
 •	The two different LANs need to be on a different subnet. Utilise /25 CIDR class C network to label the devices with the respective ip addresses.
 
