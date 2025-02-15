@@ -16,7 +16,7 @@ Cisco packet tracer software installed.
 
 #### STEPS:
 
-•	Start the packet tracer file included (Lab-3 Start), and have a look at the configuration.
+•	Start the packet tracer file included (PKT - 2 Start), and have a look at the configuration.
 
 •	The switch has a class C network (192.168.100.0), which is going to be the network being used in this lab.
 
