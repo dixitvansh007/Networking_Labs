@@ -12,7 +12,7 @@ Cisco packet tracer software installed.
 
 #### STEPS:
 
-•	Start the packet tracer file included (Lab-8 Start), and have a look at the configuration.
+•	Start the packet tracer file included (PKT-6 Start), and have a look at the configuration.
 
 •	Go to IPv4 firewall under Desktop in web server.
 
