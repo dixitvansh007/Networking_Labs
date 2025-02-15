@@ -14,7 +14,7 @@ Cisco packet tracer software installed.
 
 #### STEPS:
 
-•	Start the packet tracer file included (Lab-5 Start), and have a look at the configuration.
+•	Start the packet tracer file included (PKT-1 Start), and have a look at the configuration.
 
 •	Add a server and connect it to the switch using straight-through cable.
 
