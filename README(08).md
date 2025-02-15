@@ -12,7 +12,7 @@ Cisco packet tracer software installed.
 
 #### STEPS:
 
-•	Start the packet tracer file included (Lab-7 Start), and have a look at the configuration.
+•	Start the packet tracer file included (PKT-5 Start), and have a look at the configuration.
 
 •	The IP addresses have been already inputted to the routers.
 
